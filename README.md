@@ -25,5 +25,5 @@ A simple interface using Gradio allows users to input values and get irrigation 
 📄 Additional Details
 For complete explanation, refer to the project notebook and presentation included in this repository.
 
-GOOGLE COLAB CODE FILE : https://drive.google.com/file/d/15-lrWZh9o5DONP9b6hNrc2wKq1NEmPar/view?usp=sharing
-PRESENTATION FILE : https://drive.google.com/file/d/13-xeu55XAPl-ErbJ_bTLvNsNfqJqL9oP/view?usp=sharing
+GOOGLE COLAB CODE FILE : https://drive.google.com/file/d/1PSzJMyrgqJLjHFWc2_nTf3oA99gwM7gc/view?usp=sharing                                                             
+PRESENTATION FILE : https://drive.google.com/file/d/1MQ-k-LV87eGl3oSSF_qSVfIhds-O2BTn/view?usp=sharing
